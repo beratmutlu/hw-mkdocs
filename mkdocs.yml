@@ -1,0 +1,6 @@
+site_name: HW MkDocs
+
+nav:
+  - Home: index.md
+  - About: about.md
+
